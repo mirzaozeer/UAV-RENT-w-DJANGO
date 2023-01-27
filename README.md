@@ -24,5 +24,4 @@ https://user-images.githubusercontent.com/88277713/214980142-d1b4fca0-68fb-4fea-
 
 # The UAVs you have installed or updated on the system are automatically saved in the database and also become visible on your homepage.
 
-https://user-images.githubusercontent.com/88277713/214980424-67163fba-7897-4802-ae7f-d7d23893d3d2.mp4
-
+<img width="1243" alt="rerer" src="https://user-images.githubusercontent.com/88277713/214983656-fbc1c004-4bad-486e-bd26-cf15185b5910.PNG">
